@@ -95,3 +95,8 @@ Scalability: The ability of each server to handle more users without significant
 
 By analyzing these factors, the project will determine which protocol (TCP or UDP) is more suitable for chat-based communication applications, based on different use cases and requirements.
 
+
+VIDEO LINK:
+https://youtu.be/3LMxh8gjBVc
+
+
